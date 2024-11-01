@@ -50,13 +50,13 @@ Kosells is a full-stack, installable e-commerce application built with the MERN 
 
 ## Snapshots
 
-| Home Page                   | Product Page                | Admin Panel              |
-|-----------------------------|-----------------------------|--------------------------|
-| ![Home Page](path/to/homepage-image.png) | ![Product Page](path/to/productpage-image.png) | ![Admin Panel](path/to/adminpanel-image.png) |
+![WhatsApp Image 2024-11-01 at 4 46 34 PM](https://github.com/user-attachments/assets/6c2b446a-28c1-492c-9d97-5e9331119c10)
+![WhatsApp Image 2024-11-01 at 4 46 26 PM](https://github.com/user-attachments/assets/ebf9d802-d915-4b90-878a-1e80b9327586)
+![WhatsApp Image 2024-11-01 at 4 46 18 PM](https://github.com/user-attachments/assets/04445bef-e40f-493d-9851-08b0b139f884)
+![WhatsApp Image 2024-11-01 at 4 46 10 PM](https://github.com/user-attachments/assets/221ed186-20ef-4993-b07c-b39cb2dd4b31)
+![WhatsApp Image 2024-11-01 at 4 45 58 PM](https://github.com/user-attachments/assets/cf8a9229-72b2-4ac2-a2ab-102706c85f74)
+![WhatsApp Image 2024-11-01 at 4 45 58 PM](https://github.com/user-attachments/assets/b53a3b08-3df0-4fde-81a2-1a9f83558463)
 
-| Mobile View                 | Order Tracker               | Payment Options          |
-|-----------------------------|-----------------------------|--------------------------|
-| ![Mobile View](path/to/mobile-image.png) | ![Order Tracker](path/to/ordertracker-image.png) | ![Payment Options](path/to/paymentoptions-image.png) |
 
 ---
 
