@@ -1,6 +1,6 @@
 # Nexcommerce
 ### Project Overview
-Kosells is a full-stack, installable e-commerce application built with the MERN stack, using Redux for state management, and enhanced with Bootstrap 5 for responsive UI. Kosells provides seamless user authentication, social logins, and integrates Stripe and PayPal payment gateways. Built to be a Progressive Web App (PWA), it offers an engaging and fluid user experience, even offline.
+NexCommerce is a full-stack, installable e-commerce application built with the MERN stack, using Redux for state management, and enhanced with Bootstrap 5 for responsive UI. NexCommerce provides seamless user authentication, social logins, and integrates Stripe and PayPal payment gateways. Built to be a Progressive Web App (PWA), it offers an engaging and fluid user experience, even offline.
 
 ---
 
